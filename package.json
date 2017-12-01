@@ -1,0 +1,23 @@
+{
+  "name": "mdn-array-from",
+  "version": "1.0.0",
+  "description": "MDN Array.from polyfill",
+  "main": "polyfill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmasmejean/mdn-array-from.git"
+  },
+  "keywords": [
+    "Array.from",
+    "polyfill"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmasmejean/mdn-array-from/issues"
+  },
+  "homepage": "https://github.com/gmasmejean/mdn-array-from#readme"
+}
